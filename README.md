@@ -5,7 +5,7 @@ In this program we develop a skeleton device driver that can be loaded and run i
 Steps to run:
 1.Go to the Module/ folder and run ‘make’
 2.Then type ‘sudo insmod kernelMod.ko’
-3.Then go to Test/ folder and run ‘make’
+3.Then go to Test/ folder and run ‘make'
 4.Then run ‘sudo make run’ to run the user program
 
 Please refer to WriteUp for more information.
